@@ -1,0 +1,34 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Martti Tienari",
+      "number": "040-123456",
+      "id": 2
+    },
+    {
+      "name": "Timoteus Teme",
+      "number": "0400 0000 1111",
+      "id": 9
+    },
+    {
+      "name": "Johannes",
+      "number": "234445",
+      "id": 10
+    },
+    {
+      "name": "Anna Anniina",
+      "number": "88899",
+      "id": 11
+    },
+    {
+      "name": "Timoteus",
+      "number": "0400 7777777",
+      "id": 12
+    }
+  ]
+}

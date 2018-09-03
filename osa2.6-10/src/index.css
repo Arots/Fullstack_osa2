@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+form {
+  align-content: center;
+}
+
+button {
+  background-color: transparent;
+  border-radius: 12px;
+  border: 2px solid gray;
+  font-size: 18px;
+}
+
+button:hover {
+  background-color: gray;
+  transition: 1s;
+}
+
+input {
+  border-radius: 12px;
+}
+
+.App {
+  text-align: center;
+}
